@@ -1,0 +1,12 @@
+---
+title: "Prediction Markets"
+author: "Ashlan Guengerich"
+execute:
+  echo: false
+---
+
+```{r}
+#| message: false
+library(tidyverse)
+library(arrow)
+```
